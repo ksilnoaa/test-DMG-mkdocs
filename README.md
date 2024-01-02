@@ -6,7 +6,7 @@ Welcome to the NOAA Omics Data Management Guide!
 
 ### Experienced users
 
-If you are an experienced user looking for a quick start guide to managing your data and metadata, we suggest starting with the section [Getting Started](https://github.com/aomlomics/omics-data-management/wiki/1-Getting-Started), [Data Management Plan Template](https://github.com/aomlomics/omics-data-management/wiki/2-Data-Management-Plan-Template), and then [Study Data Templates](https://github.com/aomlomics/omics-data-management/wiki/3-Study-Data-Templates) to work with your own data.
+If you are an experienced user looking for a quick start guide to managing your data and metadata, we suggest starting with the section [Getting Started](getting-started), [Data Management Plan Template](https://github.com/aomlomics/omics-data-management/wiki/2-Data-Management-Plan-Template), and then [Study Data Templates](https://github.com/aomlomics/omics-data-management/wiki/3-Study-Data-Templates) to work with your own data.
 
 ### New users
 
