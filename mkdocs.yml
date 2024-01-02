@@ -2,6 +2,8 @@ site_name: NOAA Omics Data Management Guide
 theme:
   name: readthedocs
   highlightjs: true
+extra_css:
+  - style.css
 plugins:
   - search
   - mkdocstrings:
