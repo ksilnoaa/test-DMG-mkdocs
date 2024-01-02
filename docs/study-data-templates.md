@@ -1,7 +1,7 @@
 Study Data Templates
 ======
 
-Use the Table of Contents on the right to navigate to relevant sections for your 'omics data types!
+Use the Table of Contents on the left to navigate to relevant sections for your 'omics data types!
 
 # NOAA Omics Study Data Templates
 
