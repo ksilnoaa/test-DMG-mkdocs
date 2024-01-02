@@ -11,7 +11,7 @@ To meet these requirements, every NOAA Omics project should have a Data Manageme
 3. Persistent digital object identifiers (DOI) or accession numbers generated in (#1) and (#2) must be [cross-linked](https://github.com/aomlomics/omics-data-management/wiki/5-Omics-Data-Guidelines#archiving-and-cross-linking) so that all data and metadata from a project can be discoverable.  
 4. Fill out a [Data Management Plan template](https://github.com/aomlomics/omics-data-management/wiki/2-Data-Management-Plan-Template).
 
-![](https://github.com/aomlomics/omics-data-management/blob/main/biddle_mermaid_fig_dmg.png)
+![DMG fig](https://github.com/aomlomics/omics-data-management/blob/main/biddle_mermaid_fig_dmg.png)
 
 ## Data Management Workflow
 
