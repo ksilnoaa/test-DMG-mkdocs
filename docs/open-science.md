@@ -1,4 +1,4 @@
-Open Science Motivations
+Open Science Principles
 =======
 
 ## Motivation
