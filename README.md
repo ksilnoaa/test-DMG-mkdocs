@@ -6,11 +6,11 @@ Welcome to the NOAA Omics Data Management Guide!
 
 ### Experienced users
 
-If you are an experienced user looking for a quick start guide to managing your data and metadata, we suggest starting with the section [Getting Started](https://test-dmg-mkdocs.readthedocs.io/en/latest/getting-started.html), [Data Management Plan Template](https://github.com/aomlomics/omics-data-management/wiki/2-Data-Management-Plan-Template), and then [Study Data Templates](https://github.com/aomlomics/omics-data-management/wiki/3-Study-Data-Templates) to work with your own data.
+If you are an experienced user looking for a quick start guide to managing your data and metadata, we suggest starting with the section [Getting Started](https://test-dmg-mkdocs.readthedocs.io/en/latest/getting-started.html), [Data Management Plan Template](https://test-dmg-mkdocs.readthedocs.io/en/latest/dmp-template.html), and then [Study Data Templates](https://test-dmg-mkdocs.readthedocs.io/en/latest/study-data-templates.html) to work with your own data.
 
 ### New users
 
-If you are new to creating data management plans, or want more background on best practices in 'omics data management, each of the sections will be useful. We suggest starting with [Getting Started](https://github.com/aomlomics/omics-data-management/wiki/1-Getting-Started),  getting more detail from sections [Metadata Guidelines](https://github.com/aomlomics/omics-data-management/wiki/4-Metadata-Guidelines) and [Omics Data Guidelines](https://github.com/aomlomics/omics-data-management/wiki/5-Omics-Data-Guidelines), then build your [Data Management plan with the template](https://github.com/aomlomics/omics-data-management/wiki/2-Data-Management-Plan-Template). To work with your own data, look to [Study Data Templates](https://github.com/aomlomics/omics-data-management/wiki/3-Study-Data-Templates). 
+If you are new to creating data management plans, or want more background on best practices in 'omics data management, each of the sections will be useful. We suggest starting with [Getting Started](https://test-dmg-mkdocs.readthedocs.io/en/latest/getting-started.html),  getting more detail from sections [Metadata Guidelines](https://test-dmg-mkdocs.readthedocs.io/en/latest/metadata-guidelines.html) and [Omics Data Guidelines](https://test-dmg-mkdocs.readthedocs.io/en/latest/omics-data-guidelines.html), then build your [Data Management plan with the template](https://test-dmg-mkdocs.readthedocs.io/en/latest/dmp-template.html). To work with your own data, look to [Study Data Templates](https://test-dmg-mkdocs.readthedocs.io/en/latest/study-data-templates.html). 
 
 ## Overview
 
